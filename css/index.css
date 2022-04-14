@@ -197,6 +197,8 @@ h2 {
   background-color: #1E7DB2;
 }
 .about_us_text a {
+  display: block;
+  text-align: center;
   text-decoration-line: none;
   padding-left: 20px;
   font-family: 'Oswald', sans-serif;
